@@ -1,0 +1,10 @@
+# Example Orb
+
+[![CircleCI](https://circleci.com/gh/pennlabs/github-project.svg?style=shield)](https://circleci.com/gh/pennlabs/github-project)
+[![CircleCI Orb Version](https://img.shields.io/badge/endpoint.svg?url=https://badges.circleci.io/orb/pennlabs/orb-name)](https://circleci.com/orbs/registry/orb/pennlabs/orb-name)
+
+A CircleCI orb to do things.
+
+## Usage
+
+See the [orb registry listing](https://circleci.com/orbs/registry/orb/pennlabs/orb-name).
