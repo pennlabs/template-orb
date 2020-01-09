@@ -4,7 +4,7 @@ This template repo contains the basics needed to create a CircleCI orb.
 
 ## Installation
 
-Click the green "Use this template" button and make a new repo with your desired name. Run the provided init script `./init.sh <name of orb> <name of github repo>` to configure most of the project. See the configuration section for final changes that need to be made. Follow the provided instructions to release new versions. You can also rename `README.md.template` to `README.md` (replacing this file) to get a basic Readme.
+Click the green "Use this template" button and make a new repo with your desired name. Run the provided init script `./init.sh <name of orb> <name of github repo>` to configure most of the project. See the configuration section for final changes that need to be made. Follow the provided instructions to release new versions. You can also rename `README.md.template` to `README.md` (replacing this file) to get a basic Readme. You will need to run `circleci orb create pennlabs/orb-name` before you can use CircleCI to publish the orb.
 
 ## Features
 
